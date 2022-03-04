@@ -1,1 +1,0 @@
-# palpunte-soukun.github.io
