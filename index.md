@@ -5,3 +5,4 @@
 
 ### [Our Repositories](https://github.com/Re-Palpunte-Union)
 - [統合人狼](https://github.com/Re-Palpunte-Union/Minecraft-Integrated-Werewolf/releases/latest)
+    Readmeは[こちら](https://github.com/Re-Palpunte-Union/Minecraft-Integrated-Werewolf#readme)
